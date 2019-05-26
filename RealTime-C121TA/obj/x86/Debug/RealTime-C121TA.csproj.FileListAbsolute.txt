@@ -1,0 +1,15 @@
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\bin\x86\Debug\RealTime-C121TA.exe.config
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\bin\x86\Debug\RealTime-C121TA.exe
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\bin\x86\Debug\RealTime-C121TA.pdb
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\bin\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\bin\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\RealTime-C121TA.csprojResolveAssemblyReference.cache
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\Interop.FPCLOCK_SVRLib.dll
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\AxInterop.FPCLOCK_SVRLib.dll
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\RealTime-C121TA.csproj.ResolveComReference.cache
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\RealTime_C121TA.Master.resources
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\RealTime_C121TA.Properties.Resources.resources
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\RealTime-C121TA.csproj.GenerateResource.Cache
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\RealTime-C121TA.csproj.CoreCompileInputs.cache
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\RealTime-C121TA.exe
+D:\Workspaces\GitHub\RealTime-C121TA\RealTime-C121TA\obj\x86\Debug\RealTime-C121TA.pdb
