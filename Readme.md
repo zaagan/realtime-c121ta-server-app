@@ -27,9 +27,11 @@ Head over to the [C# Realtime Biometric Server Implementation](https://www.debug
 
 ## Demo App UI Samples
 
+### On Active Connection
+
 ![Demo App Image](/resources/image1.png)
 
+### On Retrieval Of Attendance Data From a network FP Device
 
-
-
+![On Attendance Data Retrieval](./resources/image2.png)
 
